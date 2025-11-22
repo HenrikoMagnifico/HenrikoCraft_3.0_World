@@ -1,0 +1,29 @@
+{
+	id: "f7aad3ef-bf06-4440-a3cf-9c4b471a172c"
+	type: "player"
+	player_name: "Faua"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Faua"
+		"ftbteams:description": ""
+		"ftbteams:color": "#EB1B6C"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:allow_named_fake_players": ["FrozenDragon0"]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: {
+		BypassFTBChunksProtection: true
+	}
+}

@@ -1,0 +1,37 @@
+{
+	id: "88941bd3-bda7-44bd-8e53-ce43d1531e88"
+	type: "party"
+	owner: "84f4d9c4-d8f4-45a2-99ee-3fc68e68f462"
+	ranks: {
+		84f4d9c4-d8f4-45a2-99ee-3fc68e68f462: "owner"
+		aa1179ec-36f9-4bce-a2d4-fd93d329166f: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "Withers"
+		"ftbteams:description": ""
+		"ftbteams:color": "#544395"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730048845244L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Withering_Wizard\"}]}" }
+		{ from: "84f4d9c4-d8f4-45a2-99ee-3fc68e68f462", date: 1730048862543L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"poyolok0\"}]}" }
+		{ from: "84f4d9c4-d8f4-45a2-99ee-3fc68e68f462", date: 1730049729245L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"poyolok0\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730049735812L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"poyolok0\"}]}" }
+		{ from: "84f4d9c4-d8f4-45a2-99ee-3fc68e68f462", date: 1730121774208L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"poyolok0\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info Withers#88941bd3\"},\"text\":\"Withers\"}]}" }
+		{ from: "84f4d9c4-d8f4-45a2-99ee-3fc68e68f462", date: 1730256307532L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"poyolok0\"}]}" }
+	]
+	extra: { }
+}

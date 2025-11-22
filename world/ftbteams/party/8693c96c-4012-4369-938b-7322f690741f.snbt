@@ -1,0 +1,44 @@
+{
+	id: "8693c96c-4012-4369-938b-7322f690741f"
+	type: "party"
+	owner: "8437c4ce-bfc8-422f-b42e-e6d565ea7d2b"
+	ranks: {
+		f7aad3ef-bf06-4440-a3cf-9c4b471a172c: "ally"
+		8437c4ce-bfc8-422f-b42e-e6d565ea7d2b: "owner"
+		fbc4d552-89a3-4570-b6d8-0bd4c0219f21: "ally"
+		3e1b1908-92e8-4d4e-8ade-97519f35f273: "ally"
+		f4899797-d49b-416a-a793-3280ad2f451f: "ally"
+		4f8f07a6-3eed-4ddd-9212-cf03727260f6: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "Allies of Koothannistan"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9259FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1732858262791L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Koothann\"}]}" }
+		{ from: "8437c4ce-bfc8-422f-b42e-e6d565ea7d2b", date: 1732858292592L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"JellyKuso\"}]}" }
+		{ from: "8437c4ce-bfc8-422f-b42e-e6d565ea7d2b", date: 1732858302839L, text: "{\"text\":\"hello\"}" }
+		{ from: "8437c4ce-bfc8-422f-b42e-e6d565ea7d2b", date: 1732859085602L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"FrozenDragon0\"}]}" }
+		{ from: "8437c4ce-bfc8-422f-b42e-e6d565ea7d2b", date: 1732859116354L, text: "{\"text\":\"Hassa\"}" }
+		{ from: "8437c4ce-bfc8-422f-b42e-e6d565ea7d2b", date: 1732908883861L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"thesquidmaster3\"}]}" }
+		{ from: "8437c4ce-bfc8-422f-b42e-e6d565ea7d2b", date: 1732908898635L, text: "{\"text\":\"can you see me now\"}" }
+		{ from: "8437c4ce-bfc8-422f-b42e-e6d565ea7d2b", date: 1733179734397L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Faua\"}]}" }
+		{ from: "8437c4ce-bfc8-422f-b42e-e6d565ea7d2b", date: 1734373919839L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"YoloLuc\"}]}" }
+	]
+	extra: { }
+}

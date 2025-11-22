@@ -1,0 +1,38 @@
+{
+	id: "16e209fd-612e-473d-b206-81c4ab99392d"
+	type: "party"
+	owner: "91937711-ba11-4af1-aaad-dbdc204ad71b"
+	ranks: {
+		91937711-ba11-4af1-aaad-dbdc204ad71b: "owner"
+		670a480d-5263-4bf1-bde9-330ba11aedcb: "officer"
+		aa1179ec-36f9-4bce-a2d4-fd93d329166f: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "PupiGamerRea's Party"
+		"ftbteams:description": ""
+		"ftbteams:color": "#AA00AA"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:allow_named_fake_players": ["valeriaraimbows"]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "allies"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736001599048L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"PupiGamerRea\"}]}" }
+		{ from: "91937711-ba11-4af1-aaad-dbdc204ad71b", date: 1736001599059L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"valeriaraimbows\"}]}" }
+		{ from: "91937711-ba11-4af1-aaad-dbdc204ad71b", date: 1736002012295L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"valeriaraimbows\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1736002155293L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"valeriaraimbows\"}]}" }
+		{ from: "91937711-ba11-4af1-aaad-dbdc204ad71b", date: 1736002163594L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.promoted\",\"with\":[{\"color\":\"yellow\",\"text\":\"valeriaraimbows\"}]}" }
+		{ from: "91937711-ba11-4af1-aaad-dbdc204ad71b", date: 1746820705335L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"poyolok0\"}]}" }
+	]
+	extra: { }
+}

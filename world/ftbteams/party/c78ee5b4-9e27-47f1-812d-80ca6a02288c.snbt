@@ -1,0 +1,35 @@
+{
+	id: "c78ee5b4-9e27-47f1-812d-80ca6a02288c"
+	type: "party"
+	owner: "3e1b1908-92e8-4d4e-8ade-97519f35f273"
+	ranks: {
+		8437c4ce-bfc8-422f-b42e-e6d565ea7d2b: "ally"
+		aa1179ec-36f9-4bce-a2d4-fd93d329166f: "ally"
+		3e1b1908-92e8-4d4e-8ade-97519f35f273: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Jelly's crib"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FB77F3"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 0b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "public"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730521917611L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"JellyKuso\"}]}" }
+		{ from: "3e1b1908-92e8-4d4e-8ade-97519f35f273", date: 1730521963156L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Koothann\"}]}" }
+		{ from: "3e1b1908-92e8-4d4e-8ade-97519f35f273", date: 1730522343508L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"poyolok0\"}]}" }
+	]
+	extra: { }
+}

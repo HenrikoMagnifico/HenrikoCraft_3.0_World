@@ -1,0 +1,35 @@
+{
+	id: "14d83a20-5452-4963-bfae-b64abeca07ab"
+	type: "party"
+	owner: "3c128b42-a970-4b4b-8ecd-445069c2fad6"
+	ranks: {
+		f7aad3ef-bf06-4440-a3cf-9c4b471a172c: "ally"
+		3c128b42-a970-4b4b-8ecd-445069c2fad6: "owner"
+		aa1179ec-36f9-4bce-a2d4-fd93d329166f: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "Madarak"
+		"ftbteams:description": "The Kingdom of Madarak"
+		"ftbteams:color": "#00FFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 1b
+		"ftbchunks:allow_fake_players": 1b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 0b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "public"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "public"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1729344040665L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DerNigls\"}]}" }
+		{ from: "3c128b42-a970-4b4b-8ecd-445069c2fad6", date: 1752318711385L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Faua\"}]}" }
+		{ from: "3c128b42-a970-4b4b-8ecd-445069c2fad6", date: 1752339464373L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"poyolok0\"}]}" }
+	]
+	extra: { }
+}

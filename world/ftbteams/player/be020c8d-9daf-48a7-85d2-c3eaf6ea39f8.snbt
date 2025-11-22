@@ -1,0 +1,29 @@
+{
+	id: "be020c8d-9daf-48a7-85d2-c3eaf6ea39f8"
+	type: "player"
+	player_name: "KeksChan"
+	ranks: {
+		be020c8d-9daf-48a7-85d2-c3eaf6ea39f8: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "KeksChan"
+		"ftbteams:description": ""
+		"ftbteams:color": "#E459FF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [ ]
+	extra: { }
+}

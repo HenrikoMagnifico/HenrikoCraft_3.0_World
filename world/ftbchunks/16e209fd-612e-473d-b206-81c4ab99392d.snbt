@@ -1,0 +1,86 @@
+{
+	max_claim_chunks: 200
+	max_force_load_chunks: 16
+	last_login_time: 1750774591251L
+	chunks: {
+		"minecraft:overworld": [
+			{ x: 55, z: 26, time: 1735829335403L }
+			{ x: 56, z: 23, time: 1735829337797L }
+			{ x: 56, z: 21, time: 1735829313409L }
+			{ x: 54, z: 25, time: 1735829332790L }
+			{ x: 54, z: 20, time: 1735829328694L }
+			{ x: 56, z: 28, time: 1735829386471L }
+			{ x: 55, z: 21, time: 1735829311097L }
+			{ x: 56, z: 25, time: 1735829336872L }
+			{ x: 54, z: 23, time: 1735829331173L }
+			{ x: 55, z: 24, time: 1735829338837L }
+			{ x: 54, z: 29, time: 1736783044374L }
+			{ x: 55, z: 30, time: 1736783045568L }
+			{ x: 55, z: 27, time: 1735829386471L }
+			{ x: 54, z: 28, time: 1735829386471L }
+			{ x: 56, z: 20, time: 1735829327838L }
+			{ x: 56, z: 30, time: 1736783045213L }
+			{ x: 56, z: 27, time: 1735829386471L }
+			{ x: 55, z: 22, time: 1735829326744L }
+			{ x: 56, z: 24, time: 1735829337279L }
+			{ x: 55, z: 25, time: 1735829339156L }
+			{ x: 56, z: 22, time: 1735829327179L }
+			{ x: 54, z: 26, time: 1735829335906L }
+			{ x: 55, z: 29, time: 1736783043781L }
+			{ x: 54, z: 30, time: 1736783046419L }
+			{ x: 54, z: 27, time: 1735829386471L }
+			{ x: 55, z: 28, time: 1735829386472L }
+			{ x: 56, z: 29, time: 1736783044879L }
+			{ x: 54, z: 21, time: 1735829325576L }
+			{ x: 55, z: 20, time: 1735829328265L }
+			{ x: 54, z: 24, time: 1735829332352L }
+			{ x: 56, z: 26, time: 1735829336496L }
+			{ x: 54, z: 22, time: 1735829326315L }
+			{ x: 55, z: 23, time: 1735829338238L }
+		]
+		"minecraft:the_nether": [{ x: 2, z: 3, time: 1746122713426L }]
+	}
+	member_data: {
+		91937711-ba11-4af1-aaad-dbdc204ad71b: {
+			original_claims: {
+				"minecraft:overworld": [
+					{ x: 56, z: 25 }
+					{ x: 56, z: 20 }
+					{ x: 54, z: 23 }
+					{ x: 54, z: 28 }
+					{ x: 55, z: 26 }
+					{ x: 56, z: 24 }
+					{ x: 55, z: 25 }
+					{ x: 54, z: 24 }
+					{ x: 56, z: 28 }
+					{ x: 54, z: 22 }
+					{ x: 56, z: 23 }
+					{ x: 54, z: 27 }
+					{ x: 55, z: 27 }
+					{ x: 55, z: 20 }
+					{ x: 55, z: 22 }
+					{ x: 56, z: 21 }
+					{ x: 54, z: 25 }
+					{ x: 55, z: 23 }
+					{ x: 56, z: 26 }
+					{ x: 55, z: 28 }
+					{ x: 56, z: 22 }
+					{ x: 55, z: 21 }
+					{ x: 56, z: 27 }
+					{ x: 54, z: 26 }
+					{ x: 54, z: 20 }
+					{ x: 55, z: 24 }
+					{ x: 54, z: 21 }
+				]
+			}
+			max_force_loaded_chunks: 8
+			max_claimed_chunks: 100
+			offline_force_loader: 0b
+		}
+		670a480d-5263-4bf1-bde9-330ba11aedcb: {
+			max_force_loaded_chunks: 8
+			max_claimed_chunks: 100
+			offline_force_loader: 0b
+		}
+	}
+}

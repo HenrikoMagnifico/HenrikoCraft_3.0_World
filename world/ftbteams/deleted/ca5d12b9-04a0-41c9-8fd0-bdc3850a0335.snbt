@@ -1,0 +1,34 @@
+{
+	id: "ca5d12b9-04a0-41c9-8fd0-bdc3850a0335"
+	type: "party"
+	owner: "84f4d9c4-d8f4-45a2-99ee-3fc68e68f462"
+	ranks: {
+		84f4d9c4-d8f4-45a2-99ee-3fc68e68f462: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "yes"
+		"ftbteams:description": "yes"
+		"ftbteams:color": "#7A32C9"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1729953461836L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Withering_Wizard\"}]}" }
+		{ from: "84f4d9c4-d8f4-45a2-99ee-3fc68e68f462", date: 1729953476999L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"knever_knew\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1729953480291L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"knever_knew\"}]}" }
+		{ from: "84f4d9c4-d8f4-45a2-99ee-3fc68e68f462", date: 1730040750037L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"knever_knew\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info yes#ca5d12b9\"},\"text\":\"yes\"}]}" }
+	]
+	extra: { }
+}

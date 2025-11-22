@@ -1,0 +1,33 @@
+{
+	id: "206c62e2-46f5-45e8-9b99-c84afdee96e6"
+	type: "party"
+	owner: "4254e61a-5d33-4c35-b1ce-755e8ea13636"
+	ranks: {
+		4530b3ef-9fe8-4be3-8207-c8b47e7832d5: "ally"
+		4254e61a-5d33-4c35-b1ce-755e8ea13636: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "knever_knew's team :)"
+		"ftbteams:description": ""
+		"ftbteams:color": "#59EFFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730061657205L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"knever_knew\"}]}" }
+		{ from: "4254e61a-5d33-4c35-b1ce-755e8ea13636", date: 1730160979558L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"floooooooom\"}]}" }
+	]
+	extra: { }
+}

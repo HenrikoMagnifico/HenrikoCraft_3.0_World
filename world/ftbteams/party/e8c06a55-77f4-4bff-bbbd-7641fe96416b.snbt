@@ -1,0 +1,37 @@
+{
+	id: "e8c06a55-77f4-4bff-bbbd-7641fe96416b"
+	type: "party"
+	owner: "f7aad3ef-bf06-4440-a3cf-9c4b471a172c"
+	ranks: {
+		f7aad3ef-bf06-4440-a3cf-9c4b471a172c: "owner"
+		c0bea84d-8044-40a4-a868-d3ba5583c870: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "Quacklandia"
+		"ftbteams:description": "A land where the ducks rule and the quacking never stops"
+		"ftbteams:color": "#79C1E1"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 0b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "allies"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1729448189709L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Faua\"}]}" }
+		{ from: "f7aad3ef-bf06-4440-a3cf-9c4b471a172c", date: 1729453596078L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"GreyTree06\"}]}" }
+		{ from: "f7aad3ef-bf06-4440-a3cf-9c4b471a172c", date: 1729454613493L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"GreyTree06\"}]}" }
+		{ from: "f7aad3ef-bf06-4440-a3cf-9c4b471a172c", date: 1729793075949L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"knever_knew\"}]}" }
+		{ from: "f7aad3ef-bf06-4440-a3cf-9c4b471a172c", date: 1735592087259L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.remove_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"knever_knew\"}]}" }
+		{ from: "f7aad3ef-bf06-4440-a3cf-9c4b471a172c", date: 1750601166018L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Rasc\"}]}" }
+	]
+	extra: { }
+}

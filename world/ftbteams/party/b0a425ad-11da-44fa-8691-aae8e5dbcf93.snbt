@@ -1,0 +1,33 @@
+{
+	id: "b0a425ad-11da-44fa-8691-aae8e5dbcf93"
+	type: "party"
+	owner: "c0bea84d-8044-40a4-a868-d3ba5583c870"
+	ranks: {
+		f7aad3ef-bf06-4440-a3cf-9c4b471a172c: "ally"
+		c0bea84d-8044-40a4-a868-d3ba5583c870: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Rasc"
+		"ftbteams:description": ""
+		"ftbteams:color": "#00AA00"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1750601265862L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Rasc\"}]}" }
+		{ from: "c0bea84d-8044-40a4-a868-d3ba5583c870", date: 1750601503856L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Faua\"}]}" }
+	]
+	extra: { }
+}

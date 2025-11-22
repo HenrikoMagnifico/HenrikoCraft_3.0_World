@@ -1,0 +1,43 @@
+{
+	id: "7f5bc3d4-f1f0-4d73-86aa-dfb7ffa8da0a"
+	type: "party"
+	owner: "aa1179ec-36f9-4bce-a2d4-fd93d329166f"
+	ranks: {
+		91937711-ba11-4af1-aaad-dbdc204ad71b: "ally"
+		84f4d9c4-d8f4-45a2-99ee-3fc68e68f462: "ally"
+		e9335eee-7f13-4c83-b8a4-b4e86fdc9cba: "member"
+		aa1179ec-36f9-4bce-a2d4-fd93d329166f: "owner"
+		3e1b1908-92e8-4d4e-8ade-97519f35f273: "ally"
+	}
+	properties: {
+		"ftbteams:display_name": "East Island Company"
+		"ftbteams:description": ""
+		"ftbteams:color": "#FF6059"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+		"ftbchunks:allow_explosions": 0b
+		"ftbchunks:allow_mob_griefing": 0b
+		"ftbchunks:allow_fake_players": 0b
+		"ftbchunks:allow_named_fake_players": [ ]
+		"ftbchunks:allow_fake_players_by_id": 1b
+		"ftbchunks:allow_pvp": 1b
+		"ftbchunks:block_edit_mode": "allies"
+		"ftbchunks:block_interact_mode": "allies"
+		"ftbchunks:entity_interact_mode": "allies"
+		"ftbchunks:nonliving_entity_attack_mode": "allies"
+		"ftbchunks:claim_visibility": "public"
+		"ftbchunks:location_mode": "allies"
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730256693459L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"poyolok0\"}]}" }
+		{ from: "aa1179ec-36f9-4bce-a2d4-fd93d329166f", date: 1730256704407L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"Withering_Wizard\"}]}" }
+		{ from: "aa1179ec-36f9-4bce-a2d4-fd93d329166f", date: 1730258281436L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Ziukeal\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1730258286970L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Ziukeal\"}]}" }
+		{ from: "aa1179ec-36f9-4bce-a2d4-fd93d329166f", date: 1730522554620L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"JellyKuso\"}]}" }
+		{ from: "aa1179ec-36f9-4bce-a2d4-fd93d329166f", date: 1731033577232L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"Koibo__\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1731033582783L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Koibo__\"}]}" }
+		{ from: "aa1179ec-36f9-4bce-a2d4-fd93d329166f", date: 1746820754964L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.add_ally\",\"with\":[{\"color\":\"yellow\",\"text\":\"PupiGamerRea\"}]}" }
+		{ from: "aa1179ec-36f9-4bce-a2d4-fd93d329166f", date: 1747098934716L, text: "{\"color\":\"gold\",\"translate\":\"ftbteams.message.kicked\",\"with\":[{\"color\":\"yellow\",\"text\":\"Ziukeal\"},{\"color\":\"aqua\",\"clickEvent\":{\"action\":\"run_command\",\"value\":\"/ftbteams info East_Island_Company#7f5bc3d4\"},\"text\":\"East Island Company\"}]}" }
+	]
+	extra: { }
+}
