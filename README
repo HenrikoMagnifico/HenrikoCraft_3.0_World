@@ -1,3 +1,6 @@
 A backup of the HenrikoCraft 3.0 modded server world.
 
-This modpack is required to play this world; https://www.technicpack.net/modpack/henrikocraft.1996032
+## Requirements to load the old world in single player.
+## * This modpack is required to play this world; https://www.technicpack.net/modpack/henrikocraft.1996032
+## * Download this repository and place the HenrikoCraft_3.0_World folder called 'world' from this repository in %appdata% > .technic > modpacks > henrikocraft > saves
+## * Load the world in-game!
