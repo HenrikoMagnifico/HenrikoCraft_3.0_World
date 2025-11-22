@@ -1,0 +1,21 @@
+{
+  "allowMovement": {
+    "net.minecraft.client.gui.screens.ReceivingLevelScreen": true,
+    "net.minecraft.client.gui.screens.PauseScreen": true,
+    "org.embeddedt.embeddium.gui.EmbeddiumVideoOptionsScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "loaderCommon.forge.com.seibel.distanthorizons.common.wrappers.gui.ClassicConfigGUI$ConfigScreen": true,
+    "net.minecraft.client.gui.screens.ConfirmLinkScreen": true,
+    "de.keksuccino.fancymenu.customization.layout.ManageLayoutsScreen": true,
+    "com.simibubi.create.infrastructure.gui.CreateMainMenuScreen": true,
+    "de.keksuccino.fancymenu.customization.layout.editor.LayoutEditorScreen": true,
+    "de.keksuccino.fancymenu.util.rendering.ui.screen.filebrowser.SaveFileScreen": true,
+    "de.keksuccino.fancymenu.util.rendering.ui.screen.ConfirmationScreen": true,
+    "net.minecraftforge.client.gui.ModListScreen": true,
+    "net.minecraft.client.gui.screens.packs.PackSelectionScreen": true,
+    "net.minecraft.client.gui.screens.ConfirmScreen": true
+  },
+  "hideBackground": {
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true
+  }
+}
